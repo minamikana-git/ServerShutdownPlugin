@@ -3,5 +3,5 @@ version: '${project.version}'
 main: org.hotal.servershutdownplugin.ServerShutdownPlugin
 api-version: 1.19
 shutdown:
-hour: 23
+hour: 22
 minute: 0
